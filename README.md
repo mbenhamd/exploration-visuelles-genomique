@@ -1,1 +1,1 @@
-# exploration-visuelles_donnees
+# Exploration visuelles de données
